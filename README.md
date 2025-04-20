@@ -1,2 +1,5 @@
-# parse-cathay-stock-bill
-parse cathay stock bill
+# Installation
+`pip install beautifulsoup4 pandas openpyxl`
+
+# Run
+`python parsingMail.py`
